@@ -1,0 +1,27 @@
+﻿type,sub-type,year,country,author,title,sentence_count,file_name
+gov,unclear,12/3/15,international,international summit on human genome editing,statement of the first summit on human genome editing,35,First Summit Statement.txt
+gov,eth,12/4/15,europe,council of europe committee on bioethics,statement on genome editing technologies,24,Council of Europe Bioethics.txt
+gov,unclear,10/7/15,germany,berlin-brandenburg academy of sciences and humanities,human genome surgery – towards a responsible evaluation of a new technology,335,Brandenburg.txt
+gov,sci,9/30/15,germany,german national academy of sciences,statement. The opportunities and limits of genome editing,245,Leopoldina.txt
+gov,eth,10/2/15,international,unesco international bioethics committee,report of the ibc on updating its reflection on the human genome and human rights,831,UNESCO.txt
+gov,eth,12/20/17,denmark,danish council on ethics,statement from the danish council on ethics on genetic modification of future humans,230,Danish Council on Ethics.txt
+gov,sci,4/28/16,europe,federation of european academies of medicine,human genome editing in eu,525,FEAM 2016.txt
+gov,sci,4/1/16,france,french national academy of medicine,genetic editing of human germline cells and embryos,374,French Academy of Medicine.txt
+gov,unclear,11/1/16,netherlands,royal netherlands academy of arts and sciences,genome editing. Position paper of the royal netherlands academy of arts and sciences,139,KNAW.txt
+gov,unclear,10/1/16,new zealand,royal society of new zealand,gene editing evidence update,589,New Zealand.txt
+gov,eth,9/30/16,united kingdom,nuffield council,genome editing: an ethical review,3049,Nuffield 2016.txt
+gov,sci,2/17/17,united states,"national academies of science, engineering, and medicine","human genome editing: science, ethics, and governance",6389,NASEM full report.txt
+gov,sci,3/31/17,europe,european academies science advisory council,"genome ediitng: scientific opportunities, public interests, and policy options in the eu",955,EASAC.txt
+gov,sci,10/1/17,europe,federation of european academies of medicine,the application of genome editing in humans,100,FEAM2017.txt
+gov,sci,3/1/17,germany,german national academy of sciences,ethical and legal assessment of genome editing in research on human cells,178,Leopoldina2017.txt
+gov,eth,9/27/17,germany,german ethics council,germline intervention in the human embryo,174,German Ethics Council.txt
+gov,sci,3/1/17,netherlands,netherlands commission on genetic modification,editing human dna. Moral and social implications of germline genetic modification,1783,COGEM.txt
+gov,sci,12/31/17,international,interacademy partnership,assessing the security implications of genome editing technologies,589,IAP Security Implications.txt
+gov,eth,7/1/18,united kingdom,nuffield council,genome editing and human reproduction: social and ethical issues,2164,Nuffield Council.txt
+gov,unclear,11/29/18,international,international summit on human genome editing,statement of the second summit on human genome editing,28,Second Summit Statement.txt
+gov,unclear,5/24/18,oecd,hermann garden and david winickoff,"gene editing for advanced therapies: governance, policy and society",884,OECD2.txt
+gov,unclear,3/23/18,oecd,"shukla-jones, friedrichs, and winickoff","gene editing in an international context: scientific, economic and social issues across sectors",718,OECD1.txt
+gov,sci,11/1/18,united kingdom,royal society,human genome editing: where to draw the line? Follow-up study to the genetic technologies public dialogue,80,Royal Society.txt
+gov,unclear,10/11/18,australia,department of health,third review of the national gene technology scheme,2480,Australian.txt
+gov,eth,5/9/19,germany,german ethics council,intervening in the human germline,611,German Ethics 2019.txt
+gov,eth,1/16/19,spain,comité de bioética de españa ,statement issued by the spanish bioethics committee on genome editing in humans,18,Spanish Bioethics.txt

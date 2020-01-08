@@ -1,0 +1,32 @@
+Statement by the Organizing Committee of the
+Second International Summit on Human Genome Editing
+
+November 29, 2018 
+
+In December 2015, the U.S. National Academy of Sciences and U.S. National Academy of Medicine, the Royal Society of the United Kingdom, and the Chinese Academy of Sciences hosted an international summit in Washington, D.C., to discuss scientific, ethical, and governance issues associated with human genome editing.  At its conclusion, the summit organizing committee released a statement identifying areas of research and clinical use that could proceed within current regulatory and governance protocols.  The committee also stated that it would be irresponsible to proceed with any clinical use of heritable "germline" editing at that time.  Further, it called for continued international discussion of potential benefits, risks, and oversight of this rapidly advancing technology.
+
+As part of their commitment to fostering in-depth and international discussion about human genome editing, the Academy of Sciences of Hong Kong, the Royal Society of the United Kingdom, and the U.S. National Academy of Sciences and U.S. National Academy of Medicine organized the Second International Summit on Human Genome Editing in Hong Kong to assess the evolving scientific landscape, possible clinical applications, and attendant societal reactions to human genome editing. While we, the organizing committee of the second summit, applaud the rapid advance of somatic gene editing into clinical trials, we continue to believe that proceeding with any clinical use of germline editing remains irresponsible at this time.
+
+Human Genome Editing Research 
+
+Basic and preclinical research is rapidly advancing the science of somatic and germline genome editing.  Better understanding and design of genome editing techniques, including base editing, have produced significant increases in efficiency and precision while greatly reducing off-target events. As was anticipated, somatic genome editing is now being tested in patients.
+
+Making changes in the DNA of embryos or gametes could allow parents who carry disease-causing mutations to have healthy, genetically related children.  However, heritable genome editing of either embryos or gametes poses risks that remain difficult to evaluate.  Concerns persist that changes may be made in only some cells of early-stage embryos, leaving unedited cells to perpetuate a disease.  Germline editing could produce unintended harmful effects for not just an individual but also for that individual’s descendants.  Changes to a particular trait may have unanticipated effects on other traits that could vary from person to person and in response to environmental influences. 
+
+The variability of effects produced by genetic changes makes it difficult to conduct a thorough evaluation of benefits and risks. Nevertheless, germline genome editing could become acceptable in the future if these risks are addressed and if a number of additional criteria are met.  These criteria include strict independent oversight, a compelling medical need, an absence of reasonable alternatives, a plan for long-term follow-up, and attention to societal effects.  Even so, public acceptability will likely vary among jurisdictions, leading to differing policy responses.
+
+The organizing committee concludes that the scientific understanding and technical requirements for clinical practice remain too uncertain and the risks too great to permit clinical trials of germline editing at this time.  Progress over the last three years and the discussions at the current summit, however, suggest that it is time to define a rigorous, responsible translational pathway toward such trials.
+
+A Proposed Translational Pathway 
+
+A translational pathway to germline editing will require adhering to widely accepted standards for clinical research, including criteria articulated in genome editing guidance documents published in the last three years.[1]  Such a pathway will require establishing standards for preclinical evidence and accuracy of gene modification, assessment of competency for practitioners of clinical trials, enforceable standards of professional behavior, and strong partnerships with patients and patient advocacy groups.
+
+Report of Clinical Use of Germline Editing
+
+At this summit we heard an unexpected and deeply disturbing claim that human embryos had been edited and implanted, resulting in a pregnancy and the birth of twins.  We recommend an independent assessment to verify this claim and to ascertain whether the claimed DNA modifications have occurred.  Even if the modifications are verified, the procedure was irresponsible and failed to conform with international norms.  Its flaws include an inadequate medical indication, a poorly designed study protocol, a failure to meet ethical standards for protecting the welfare of research subjects, and a lack of transparency in the development, review, and conduct of the clinical procedures.
+
+An Ongoing International Forum
+
+The organizing committee calls for an ongoing international forum  to foster broad public dialogue, develop strategies for increasing equitable access to meet the needs of underserved populations, speed the development of regulatory science, provide a clearinghouse for information about governance options, contribute to the development of common regulatory standards, and enhance coordination of research and clinical applications through an international registry of planned and ongoing experiments.
+
+In addition to the establishment of an international forum, the organizing committee calls upon national academies and learned societies of science and medicine around the world to continue the practice of holding international summits to review clinical uses of genome editing, to gather diverse perspectives, to inform decisions by policymakers, to formulate recommendations and guidelines, and to promote coordination among nations and jurisdictions.

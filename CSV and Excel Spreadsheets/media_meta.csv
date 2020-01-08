@@ -1,0 +1,905 @@
+﻿article,publication,date,sentence_count
+1,Wall Street Journal,1/12/13,31
+2,Wall Street Journal,1/12/13,31
+3,Financial Times,1/19/13,11
+4,Wall Street Journal,3/2/13,33
+5,Wall Street Journal,3/2/13,34
+6,Boston Globe,5/11/13,41
+7,MIT Technology Review,9/1/13,973
+8,Boston Globe,11/25/13,38
+9,MIT Technology Review,1/1/14,223
+10,The Guardian,1/31/14,26
+11,The Economist,2/8/14,43
+12,MIT Technology Review,3/1/14,119
+13,MIT Technology Review,3/1/14,53
+14,New York Times,3/4/14,79
+15,New York Times,3/5/14,71
+16,MIT Technology Review,5/1/14,68
+17,MIT Technology Review,7/1/14,156
+18,Boston Globe,7/18/14,51
+19,Boston Globe,8/24/14,22
+20,MIT Technology Review,9/1/14,26
+21,The Guardian,9/6/14,48
+22,MIT Technology Review,11/1/14,172
+23,Boston Globe,11/30/14,43
+24,Boston Globe,12/25/14,63
+25,Boston Globe,1/8/15,25
+26,Wall Street Journal,1/29/15,12
+27,Washington Post,2/9/15,116
+28,Washington Post,2/10/15,116
+29,MIT Technology Review,3/1/15,59
+30,New York Times,3/21/15,41
+31,Boston Globe,3/24/15,33
+32,Wall Street Journal,4/8/15,40
+33,Wall Street Journal,4/9/15,40
+34,The Guardian,4/9/15,27
+35,Wall Street Journal,4/10/15,39
+36,Wall Street Journal,4/20/15,24
+37,Wall Street Journal,4/20/15,24
+38,Washington Post,4/23/15,16
+39,Wall Street Journal,4/23/15,42
+40,Wall Street Journal,4/24/15,19
+41,New York Times,4/25/15,43
+42,The Economist,4/25/15,51
+43,MIT Technology Review,5/1/15,27
+44,MIT Technology Review,5/1/15,21
+45,MIT Technology Review,5/1/15,271
+46,The Economist,5/2/15,33
+47,Los Angeles Times,5/3/15,68
+48,Boston Globe,5/5/15,12
+49,Washington Post,5/18/15,62
+50,Washington Post,5/19/15,63
+51,Wall Street Journal,5/22/15,55
+52,Wall Street Journal,6/29/15,47
+53,Wall Street Journal,6/29/15,49
+54,Financial Times,6/29/15,30
+55,New York Times,7/1/15,47
+56,MIT Technology Review,7/1/15,56
+57,Los Angeles Times,7/11/15,31
+58,Washington Post,7/27/15,76
+59,Washington Post,7/28/15,76
+60,Boston Globe,8/6/15,16
+61,Boston Globe,8/10/15,20
+62,Boston Globe,8/11/15,20
+63,The Economist,8/22/15,13
+64,The Economist,8/22/15,15
+65,The Economist,8/22/15,129
+66,The Guardian,9/2/15,60
+67,The Guardian,9/2/15,33
+68,The Guardian,9/2/15,45
+69,Boston Globe,9/3/15,52
+70,The Guardian,9/4/15,35
+71,Boston Globe,9/18/15,20
+72,The Guardian,9/18/15,52
+73,Boston Globe,9/26/15,43
+74,The Economist,10/3/15,37
+75,The Economist,10/10/15,130
+76,Financial Times,10/14/15,36
+77,The Economist,10/17/15,47
+78,The Economist,10/17/15,61
+79,New York Times,10/25/15,74
+80,Boston Globe,10/26/15,38
+81,Boston Globe,10/27/15,39
+82,Wall Street Journal,11/5/15,36
+83,Wall Street Journal,11/6/15,19
+84,Boston Globe,11/6/15,32
+85,Wall Street Journal,11/11/15,154
+86,Washington Post,11/16/15,39
+87,New York Times,11/21/15,67
+88,Boston Globe,11/24/15,40
+89,Wall Street Journal,11/24/15,36
+90,The Guardian,11/24/15,30
+91,Wall Street Journal,11/25/15,38
+92,New York Times,11/27/15,65
+93,New York Times,11/28/15,45
+94,Los Angeles Times,11/28/15,45
+95,Wall Street Journal,11/28/15,36
+96,Financial Times,11/28/15,67
+97,Wall Street Journal,11/30/15,35
+98,Los Angeles Times,12/1/15,22
+99,Washington Post,12/2/15,42
+100,Boston Globe,12/3/15,49
+101,Washington Post,12/3/15,16
+102,Boston Globe,12/3/15,49
+103,Washington Post,12/4/15,16
+104,Boston Globe,12/4/15,21
+105,New York Times,12/5/15,39
+106,The Economist,12/5/15,25
+107,Wall Street Journal,12/7/15,34
+108,Financial Times,12/7/15,34
+109,Wall Street Journal,12/8/15,21
+110,Wall Street Journal,12/8/15,23
+111,Boston Globe,12/9/15,28
+112,Boston Globe,12/10/15,37
+113,Wall Street Journal,12/12/15,456
+114,Washington Post,12/12/15,35
+115,Washington Post,12/13/15,37
+116,New York Times,12/19/15,13
+117,Boston Globe,12/19/15,39
+118,Boston Globe,12/20/15,39
+119,Wall Street Journal,12/20/15,34
+120,Wall Street Journal,12/21/15,32
+121,Wall Street Journal,12/21/15,8
+122,Wall Street Journal,12/21/15,17
+123,Wall Street Journal,12/21/15,10
+124,Boston Globe,12/21/15,14
+125,Boston Globe,12/21/15,37
+126,Washington Post,12/21/15,71
+127,Washington Post,12/22/15,71
+128,Washington Post,12/22/15,53
+129,Boston Globe,12/22/15,40
+130,New York Times,12/23/15,60
+131,Los Angeles Times,12/23/15,63
+132,Financial Times,12/24/15,25
+133,Washington Post,12/25/15,18
+134,Washington Post,12/26/15,18
+135,Wall Street Journal,12/29/15,38
+136,Wall Street Journal,12/30/15,38
+137,Boston Globe,12/30/15,33
+138,Wall Street Journal,12/31/15,38
+139,Boston Globe,12/31/15,33
+140,New York Times,1/1/16,56
+141,Wall Street Journal,1/1/16,35
+142,MIT Technology Review,1/1/16,31
+143,Los Angeles Times,1/2/16,45
+144,Wall Street Journal,1/2/16,33
+145,Boston Globe,1/4/16,16
+146,Boston Globe,1/5/16,16
+147,Boston Globe,1/5/16,40
+148,Boston Globe,1/6/16,40
+149,Wall Street Journal,1/7/16,25
+150,The Economist,1/9/16,22
+151,Wall Street Journal,1/9/16,25
+152,Washington Post,1/13/16,19
+153,Washington Post,1/14/16,53
+154,Financial Times,1/14/16,25
+155,The Economist,1/16/16,42
+156,Financial Times,1/16/16,50
+157,Boston Globe,1/25/16,41
+158,Boston Globe,1/25/16,71
+159,Boston Globe,1/25/16,7
+160,Boston Globe,1/26/16,42
+161,Boston Globe,1/26/16,71
+162,Boston Globe,2/1/16,49
+163,Boston Globe,2/1/16,49
+164,Wall Street Journal,2/1/16,23
+165,Boston Globe,2/1/16,23
+166,New York Times,2/1/16,21
+167,Wall Street Journal,2/1/16,18
+168,New York Times,2/1/16,25
+169,Boston Globe,2/1/16,22
+170,Wall Street Journal,2/1/16,16
+171,Boston Globe,2/1/16,34
+172,Boston Globe,2/1/16,35
+173,Financial Times,2/2/16,11
+174,New York Times,2/3/16,26
+175,Boston Globe,2/3/16,35
+176,Boston Globe,2/3/16,28
+177,Washington Post,2/4/16,30
+178,New York Times,2/5/16,26
+179,Los Angeles Times,2/7/16,41
+180,Boston Globe,2/11/16,18
+181,Boston Globe,2/11/16,18
+182,Los Angeles Times,2/12/16,38
+183,Boston Globe,2/12/16,18
+184,Los Angeles Times,2/15/16,29
+185,Boston Globe,2/16/16,13
+186,Boston Globe,2/17/16,33
+187,Boston Globe,2/17/16,13
+188,The Economist,2/20/16,35
+189,Boston Globe,2/25/16,44
+190,Boston Globe,2/25/16,46
+191,MIT Technology Review,3/1/16,25
+192,MIT Technology Review,3/1/16,155
+193,MIT Technology Review,3/1/16,23
+194,Financial Times,3/2/16,54
+195,Wall Street Journal,3/3/16,44
+196,Wall Street Journal,3/4/16,44
+197,New York Times,3/6/16,127
+198,New York Times,3/8/16,124
+199,Financial Times,3/8/16,41
+200,Wall Street Journal,3/11/16,43
+201,Wall Street Journal,3/12/16,43
+202,Boston Globe,3/16/16,16
+203,Boston Globe,3/17/16,16
+204,Washington Post,3/22/16,26
+205,Boston Globe,3/23/16,29
+206,Boston Globe,3/23/16,29
+207,Boston Globe,3/23/16,30
+208,Wall Street Journal,3/24/16,28
+209,Wall Street Journal,3/28/16,87
+210,Boston Globe,4/11/16,8
+211,Wall Street Journal,4/11/16,13
+212,Boston Globe,4/11/16,36
+213,Boston Globe,4/12/16,36
+214,Wall Street Journal,4/12/16,13
+215,New York Times,4/17/16,56
+216,Washington Post,4/19/16,29
+217,Los Angeles Times,4/23/16,46
+218,Financial Times,4/25/16,38
+219,MIT Technology Review,5/1/16,164
+220,Wall Street Journal,5/2/16,24
+221,Boston Globe,5/2/16,6
+222,Boston Globe,5/2/16,42
+223,Boston Globe,5/3/16,46
+224,Washington Post,5/3/16,139
+225,Washington Post,5/4/16,139
+226,New York Times,5/5/16,28
+227,Boston Globe,5/6/16,123
+228,Boston Globe,5/6/16,14
+229,Boston Globe,5/6/16,123
+230,Boston Globe,5/6/16,13
+231,Wall Street Journal,5/6/16,13
+232,Boston Globe,5/6/16,28
+233,Boston Globe,5/7/16,28
+234,Boston Globe,5/11/16,37
+235,Boston Globe,5/11/16,44
+236,Boston Globe,5/12/16,41
+237,Boston Globe,5/12/16,3
+238,Boston Globe,5/12/16,55
+239,Wall Street Journal,5/13/16,66
+240,Boston Globe,5/14/16,29
+241,Boston Globe,5/15/16,29
+242,Boston Globe,5/15/16,54
+243,Wall Street Journal,5/16/16,22
+244,Wall Street Journal,5/17/16,5
+245,Washington Post,5/18/16,38
+246,Financial Times,5/18/16,30
+247,Boston Globe,5/19/16,9
+248,Wall Street Journal,5/20/16,65
+249,The Economist,5/21/16,154
+250,Boston Globe,5/24/16,23
+251,Boston Globe,5/24/16,23
+252,Boston Globe,5/25/16,23
+253,Boston Globe,6/2/16,45
+254,Washington Post,6/3/16,32
+255,New York Times,6/3/16,48
+256,Boston Globe,6/3/16,45
+257,New York Times,6/4/16,42
+258,Boston Globe,6/6/16,32
+259,Boston Globe,6/7/16,32
+260,New York Times,6/9/16,40
+261,Washington Post,6/9/16,36
+262,New York Times,6/9/16,49
+263,New York Times,6/10/16,47
+264,The Economist,6/11/16,82
+265,Boston Globe,6/17/16,67
+266,Boston Globe,6/18/16,67
+267,Boston Globe,6/21/16,34
+268,Washington Post,6/22/16,14
+269,Boston Globe,6/22/16,34
+270,Boston Globe,6/23/16,65
+271,Wall Street Journal,6/24/16,13
+272,Financial Times,6/29/16,29
+273,MIT Technology Review,7/1/16,51
+274,Boston Globe,7/10/16,39
+275,Boston Globe,7/10/16,42
+276,Boston Globe,7/10/16,42
+277,Boston Globe,7/11/16,42
+278,Boston Globe,7/11/16,35
+279,Boston Globe,7/19/16,26
+280,The Economist,7/23/16,105
+281,Wall Street Journal,7/25/16,29
+282,Wall Street Journal,7/26/16,30
+283,New York Times,7/27/16,62
+284,New York Times,8/18/16,71
+285,New York Times,8/19/16,60
+286,Boston Globe,8/19/16,37
+287,Boston Globe,8/19/16,37
+288,Boston Globe,8/21/16,92
+289,Boston Globe,8/22/16,39
+290,Boston Globe,8/23/16,39
+291,MIT Technology Review,9/1/16,48
+292,MIT Technology Review,9/1/16,36
+293,Wall Street Journal,9/2/16,102
+294,Wall Street Journal,9/3/16,106
+295,Boston Globe,9/3/16,31
+296,Boston Globe,9/4/16,31
+297,Boston Globe,9/4/16,43
+298,Wall Street Journal,9/5/16,103
+299,Washington Post,9/8/16,30
+300,Boston Globe,9/8/16,11
+301,Boston Globe,9/10/16,11
+302,Boston Globe,9/11/16,5
+303,Wall Street Journal,9/12/16,15
+304,Wall Street Journal,9/22/16,44
+305,Boston Globe,9/22/16,28
+306,Wall Street Journal,9/23/16,34
+307,Boston Globe,9/23/16,29
+308,Wall Street Journal,9/23/16,38
+309,Wall Street Journal,9/23/16,8
+310,Boston Globe,9/29/16,74
+311,Boston Globe,9/30/16,74
+312,The Guardian,9/30/16,33
+313,Wall Street Journal,10/7/16,18
+314,Financial Times,10/7/16,20
+315,Los Angeles Times,10/16/16,56
+316,Boston Globe,10/19/16,12
+317,Wall Street Journal,10/19/16,8
+318,Boston Globe,10/20/16,36
+319,Wall Street Journal,10/21/16,43
+320,Wall Street Journal,10/22/16,43
+321,Wall Street Journal,10/24/16,43
+322,Boston Globe,10/26/16,40
+323,Boston Globe,10/27/16,44
+324,Wall Street Journal,10/27/16,36
+325,MIT Technology Review,11/1/16,226
+326,Financial Times,11/4/16,17
+327,Wall Street Journal,11/7/16,69
+328,Wall Street Journal,11/8/16,62
+329,Financial Times,11/29/16,26
+330,Wall Street Journal,12/1/16,39
+331,Wall Street Journal,12/2/16,36
+332,Boston Globe,12/4/16,42
+333,Wall Street Journal,12/5/16,35
+334,Wall Street Journal,12/6/16,29
+335,Wall Street Journal,12/6/16,26
+336,Boston Globe,12/6/16,25
+337,Boston Globe,12/7/16,25
+338,The Economist,12/10/16,34
+339,Boston Globe,12/12/16,14
+340,Boston Globe,12/12/16,39
+341,Boston Globe,12/13/16,39
+342,Boston Globe,12/14/16,36
+343,Boston Globe,12/16/16,19
+344,Boston Globe,12/17/16,18
+345,Boston Globe,12/18/16,36
+346,Boston Globe,12/19/16,24
+347,Boston Globe,12/20/16,27
+348,The Economist,12/24/16,137
+349,New York Times,12/28/16,62
+350,Wall Street Journal,12/28/16,52
+351,New York Times,12/28/16,55
+352,Wall Street Journal,12/29/16,56
+353,Wall Street Journal,12/30/16,45
+354,Los Angeles Times,12/31/16,75
+355,MIT Technology Review,1/1/17,60
+356,New York Times,1/5/17,27
+357,Washington Post,1/8/17,5
+358,New York Times,1/10/17,84
+359,Wall Street Journal,1/16/17,25
+360,Wall Street Journal,1/17/17,25
+361,Wall Street Journal,1/19/17,26
+362,New York Times,1/27/17,79
+363,Washington Post,1/31/17,45
+364,Wall Street Journal,2/10/17,39
+365,Wall Street Journal,2/11/17,39
+366,Wall Street Journal,2/13/17,39
+367,Wall Street Journal,2/13/17,38
+368,Wall Street Journal,2/14/17,24
+369,New York Times,2/15/17,43
+370,New York Times,2/15/17,40
+371,Boston Globe,2/15/17,52
+372,Boston Globe,2/15/17,46
+373,Financial Times,2/15/17,22
+374,Wall Street Journal,2/15/17,22
+375,Washington Post,2/15/17,37
+376,Wall Street Journal,2/15/17,16
+377,Wall Street Journal,2/15/17,24
+378,Washington Post,2/16/17,27
+379,Wall Street Journal,2/16/17,13
+380,Los Angeles Times,2/16/17,63
+381,New York Times,2/16/17,41
+382,Boston Globe,2/16/17,46
+383,Financial Times,2/16/17,40
+384,Washington Post,2/18/17,84
+385,Financial Times,2/18/17,31
+386,Washington Post,2/19/17,25
+387,Washington Post,2/19/17,84
+388,Boston Globe,2/19/17,42
+389,Boston Globe,2/19/17,38
+390,Wall Street Journal,2/27/17,59
+391,Wall Street Journal,2/27/17,56
+392,MIT Technology Review,3/1/17,26
+393,Wall Street Journal,3/10/17,40
+394,The Economist,3/11/17,48
+395,Boston Globe,3/14/17,13
+396,Boston Globe,3/15/17,13
+397,Boston Globe,3/16/17,27
+398,Boston Globe,3/16/17,26
+399,Boston Globe,3/16/17,21
+400,Boston Globe,3/16/17,21
+401,Wall Street Journal,3/17/17,38
+402,Boston Globe,3/17/17,19
+403,Boston Globe,3/17/17,53
+404,Boston Globe,3/19/17,53
+405,The Guardian,3/23/17,19
+406,Boston Globe,3/28/17,7
+407,Boston Globe,3/28/17,58
+408,Boston Globe,3/28/17,51
+409,Boston Globe,3/30/17,56
+410,Boston Globe,3/31/17,18
+411,Boston Globe,3/31/17,19
+412,Boston Globe,4/1/17,74
+413,Boston Globe,4/2/17,74
+414,Washington Post,4/10/17,55
+415,Boston Globe,4/11/17,124
+416,Boston Globe,4/11/17,124
+417,Boston Globe,4/13/17,9
+418,Boston Globe,4/13/17,74
+419,Wall Street Journal,4/13/17,31
+420,Boston Globe,4/13/17,53
+421,Wall Street Journal,4/14/17,31
+422,Washington Post,4/14/17,28
+423,Boston Globe,4/14/17,53
+424,Wall Street Journal,4/14/17,42
+425,Boston Globe,4/28/17,24
+426,Wall Street Journal,4/28/17,22
+427,Wall Street Journal,4/29/17,13
+428,The Economist,5/6/17,63
+429,Wall Street Journal,5/7/17,31
+430,Wall Street Journal,5/8/17,29
+431,Wall Street Journal,5/9/17,23
+432,Boston Globe,5/10/17,14
+433,Boston Globe,5/14/17,12
+434,Financial Times,5/23/17,32
+435,Los Angeles Times,5/29/17,43
+436,Boston Globe,6/1/17,52
+437,New York Times,6/4/17,59
+438,Boston Globe,6/4/17,51
+439,Boston Globe,6/5/17,58
+440,Boston Globe,6/6/17,56
+441,Boston Globe,6/9/17,108
+442,Boston Globe,6/11/17,108
+443,Wall Street Journal,6/13/17,46
+444,Washington Post,6/14/17,46
+445,The Guardian,6/17/17,51
+446,New York Times,6/18/17,75
+447,Boston Globe,6/18/17,31
+448,Boston Globe,6/19/17,28
+449,Financial Times,6/24/17,30
+450,Wall Street Journal,6/26/17,49
+451,Wall Street Journal,6/26/17,49
+452,MIT Technology Review,7/1/17,72
+453,MIT Technology Review,7/1/17,22
+454,Washington Post,7/2/17,68
+455,Wall Street Journal,7/7/17,123
+456,Wall Street Journal,7/8/17,123
+457,Wall Street Journal,7/8/17,31
+458,Wall Street Journal,7/10/17,8
+459,Wall Street Journal,7/10/17,11
+460,Wall Street Journal,7/10/17,9
+461,Wall Street Journal,7/10/17,21
+462,Wall Street Journal,7/10/17,20
+463,Wall Street Journal,7/10/17,11
+464,New York Times,7/13/17,47
+465,Los Angeles Times,7/15/17,46
+466,Boston Globe,7/18/17,32
+467,Boston Globe,7/18/17,40
+468,Boston Globe,7/19/17,38
+469,The Economist,7/22/17,65
+470,Los Angeles Times,7/23/17,65
+471,Wall Street Journal,7/25/17,6
+472,Wall Street Journal,7/26/17,6
+473,Boston Globe,7/26/17,21
+474,Boston Globe,7/27/17,21
+475,New York Times,7/28/17,32
+476,Wall Street Journal,8/2/17,52
+477,Washington Post,8/3/17,47
+478,Washington Post,8/3/17,16
+479,Los Angeles Times,8/3/17,62
+480,New York Times,8/3/17,76
+481,Wall Street Journal,8/3/17,16
+482,Wall Street Journal,8/3/17,37
+483,Wall Street Journal,8/3/17,37
+484,Financial Times,8/3/17,24
+485,Financial Times,8/4/17,20
+486,The Economist,8/5/17,65
+487,Los Angeles Times,8/6/17,23
+488,Financial Times,8/7/17,29
+489,Wall Street Journal,8/10/17,29
+490,New York Times,8/11/17,62
+491,Wall Street Journal,8/11/17,21
+492,Washington Post,8/11/17,52
+493,The Economist,8/12/17,43
+494,Washington Post,8/27/17,60
+495,MIT Technology Review,9/1/17,361
+496,MIT Technology Review,9/1/17,236
+497,Wall Street Journal,9/6/17,11
+498,Wall Street Journal,9/13/17,44
+499,The Economist,9/16/17,90
+500,Boston Globe,9/19/17,24
+501,Washington Post,9/20/17,48
+502,Boston Globe,9/20/17,23
+503,Financial Times,9/21/17,24
+504,New York Times,9/26/17,39
+505,Boston Globe,9/29/17,36
+506,Boston Globe,9/30/17,36
+507,New York Times,10/3/17,64
+508,Wall Street Journal,10/8/17,9
+509,Wall Street Journal,10/9/17,9
+510,Wall Street Journal,10/10/17,18
+511,Boston Globe,10/10/17,38
+512,Boston Globe,10/11/17,37
+513,Wall Street Journal,10/12/17,41
+514,Wall Street Journal,10/13/17,41
+515,Wall Street Journal,10/16/17,64
+516,Wall Street Journal,10/19/17,14
+517,Wall Street Journal,10/20/17,13
+518,Washington Post,10/22/17,116
+519,Wall Street Journal,10/25/17,30
+520,Wall Street Journal,10/26/17,11
+521,Washington Post,10/26/17,38
+522,Wall Street Journal,10/26/17,21
+523,Wall Street Journal,10/26/17,12
+524,Financial Times,10/26/17,26
+525,The Economist,10/28/17,49
+526,Los Angeles Times,10/28/17,50
+527,Los Angeles Times,10/28/17,37
+528,Financial Times,10/28/17,82
+529,New York Times,10/29/17,71
+530,Boston Globe,10/29/17,37
+531,Boston Globe,10/30/17,36
+532,Washington Post,11/1/17,47
+533,MIT Technology Review,11/1/17,6
+534,MIT Technology Review,11/1/17,79
+535,New York Times,11/3/17,87
+536,Wall Street Journal,11/8/17,34
+537,Boston Globe,11/10/17,6
+538,Boston Globe,11/12/17,6
+539,Boston Globe,11/19/17,112
+540,Washington Post,11/20/17,30
+541,New York Times,11/21/17,59
+542,New York Times,11/21/17,57
+543,Boston Globe,11/24/17,43
+544,Boston Globe,11/25/17,43
+545,Wall Street Journal,12/5/17,55
+546,Financial Times,12/6/17,20
+547,Los Angeles Times,12/10/17,55
+548,Wall Street Journal,12/17/17,84
+549,Wall Street Journal,12/18/17,83
+550,Financial Times,12/21/17,24
+551,Wall Street Journal,12/22/17,54
+552,Los Angeles Times,12/23/17,107
+553,Wall Street Journal,12/23/17,54
+554,Wall Street Journal,12/24/17,46
+555,Los Angeles Times,12/26/17,44
+556,Wall Street Journal,12/26/17,45
+557,Los Angeles Times,12/30/17,97
+558,MIT Technology Review,1/1/18,34
+559,MIT Technology Review,1/1/18,169
+560,MIT Technology Review,1/1/18,18
+561,The Economist,1/6/18,87
+562,Boston Globe,1/9/18,19
+563,Boston Globe,1/10/18,20
+564,The Guardian,1/15/18,99
+565,Wall Street Journal,1/21/18,125
+566,Wall Street Journal,1/22/18,110
+567,Wall Street Journal,1/22/18,53
+568,Boston Globe,1/24/18,43
+569,Boston Globe,1/25/18,41
+570,New York Times,1/26/18,34
+571,Financial Times,2/19/18,18
+572,Financial Times,2/21/18,12
+573,Wall Street Journal,2/23/18,47
+574,Wall Street Journal,2/24/18,47
+575,The Economist,2/24/18,43
+576,Boston Globe,2/26/18,59
+577,Wall Street Journal,3/6/18,40
+578,Financial Times,3/10/18,12
+579,Financial Times,3/10/18,12
+580,Financial Times,3/17/18,76
+581,Financial Times,3/17/18,4
+582,Financial Times,3/17/18,4
+583,Financial Times,3/17/18,76
+584,Financial Times,3/17/18,4
+585,Financial Times,3/17/18,4
+586,Boston Globe,3/19/18,52
+587,Wall Street Journal,4/3/18,15
+588,Financial Times,4/12/18,97
+589,Washington Post,4/13/18,44
+590,Wall Street Journal,4/15/18,76
+591,Wall Street Journal,4/16/18,73
+592,Wall Street Journal,4/16/18,41
+593,Financial Times,4/17/18,25
+594,The Guardian,4/22/18,18
+595,Washington Post,4/30/18,35
+596,Washington Post,5/1/18,122
+597,Wall Street Journal,5/6/18,33
+598,Wall Street Journal,5/7/18,27
+599,Wall Street Journal,5/10/18,35
+600,Wall Street Journal,5/11/18,66
+601,New York Times,5/15/18,105
+602,New York Times,5/15/18,86
+603,Financial Times,5/15/18,25
+604,Boston Globe,5/22/18,26
+605,Boston Globe,5/23/18,25
+606,Boston Globe,5/25/18,43
+607,Boston Globe,5/27/18,43
+608,Wall Street Journal,6/1/18,42
+609,Financial Times,6/1/18,7
+610,Financial Times,6/1/18,7
+611,Financial Times,6/1/18,7
+612,Financial Times,6/1/18,7
+613,Wall Street Journal,6/2/18,41
+614,The Guardian,6/5/18,44
+615,Boston Globe,6/8/18,48
+616,Washington Post,6/10/18,52
+617,Boston Globe,6/10/18,46
+618,Boston Globe,6/10/18,62
+619,New York Times,6/13/18,71
+620,New York Times,6/15/18,29
+621,Washington Post,7/2/18,23
+622,New York Times,7/12/18,56
+623,Wall Street Journal,7/16/18,27
+624,Boston Globe,7/17/18,48
+625,Wall Street Journal,7/17/18,8
+626,The Guardian,7/17/18,28
+627,Financial Times,7/17/18,11
+628,Boston Globe,7/20/18,34
+629,The Economist,7/21/18,33
+630,The Economist,7/21/18,46
+631,Washington Post,7/24/18,36
+632,Wall Street Journal,7/27/18,48
+633,New York Times,7/28/18,78
+634,Wall Street Journal,7/28/18,48
+635,Wall Street Journal,8/8/18,28
+636,Wall Street Journal,8/9/18,12
+637,Washington Post,8/12/18,74
+638,Wall Street Journal,8/17/18,48
+639,The Guardian,8/17/18,33
+640,The Economist,8/18/18,26
+641,Wall Street Journal,8/18/18,48
+642,Boston Globe,8/20/18,59
+643,Wall Street Journal,8/26/18,65
+644,Wall Street Journal,8/27/18,65
+645,Wall Street Journal,8/30/18,27
+646,The Guardian,8/30/18,34
+647,Wall Street Journal,8/31/18,27
+648,Boston Globe,9/1/18,19
+649,The Guardian,9/1/18,17
+650,Washington Post,9/4/18,56
+651,Washington Post,9/11/18,27
+652,Boston Globe,9/11/18,34
+653,Boston Globe,9/12/18,34
+654,Boston Globe,9/12/18,34
+655,Boston Globe,9/14/18,45
+656,Boston Globe,9/16/18,46
+657,Financial Times,9/17/18,17
+658,Financial Times,9/18/18,40
+659,Washington Post,9/19/18,11
+660,The Guardian,9/22/18,175
+661,Wall Street Journal,9/27/18,112
+662,Wall Street Journal,10/1/18,48
+663,Wall Street Journal,10/2/18,48
+664,Wall Street Journal,10/3/18,88
+665,Wall Street Journal,10/3/18,44
+666,Boston Globe,10/4/18,47
+667,Boston Globe,10/5/18,47
+668,New York Times,10/9/18,34
+669,Wall Street Journal,10/9/18,122
+670,Wall Street Journal,10/11/18,14
+671,Wall Street Journal,10/11/18,122
+672,The Guardian,10/11/18,27
+673,Los Angeles Times,10/31/18,43
+674,Boston Globe,10/15/18,117
+675,Boston Globe,10/29/18,60
+676,MIT Technology Review,11/1/18,97
+677,Boston Globe,11/7/18,81
+678,Boston Globe,11/8/18,39
+679,The Economist,11/10/18,125
+680,Boston Globe,11/11/18,79
+681,Boston Globe,11/11/18,39
+682,Boston Globe,11/18/18,86
+683,The Guardian,11/25/18,55
+684,Wall Street Journal,11/26/18,62
+685,Boston Globe,11/26/18,49
+686,The Guardian,11/26/18,50
+687,Boston Globe,11/26/18,72
+688,Washington Post,11/27/18,53
+689,New York Times,11/27/18,67
+690,Boston Globe,11/27/18,47
+691,Wall Street Journal,11/27/18,29
+692,Boston Globe,11/27/18,95
+693,Financial Times,11/27/18,21
+694,New York Times,11/28/18,54
+695,Wall Street Journal,11/28/18,54
+696,New York Times,11/28/18,50
+697,Washington Post,11/29/18,27
+698,Washington Post,11/29/18,44
+699,New York Times,11/29/18,108
+700,Wall Street Journal,11/29/18,21
+701,New York Times,11/29/18,40
+702,New York Times,11/29/18,85
+703,Financial Times,11/29/18,22
+704,Washington Post,11/30/18,53
+705,New York Times,12/1/18,87
+706,Boston Globe,12/1/18,17
+707,The Economist,12/2/18,63
+708,The Economist,12/1/18,39
+709,Financial Times,12/1/18,82
+710,Financial Times,12/1/18,5
+711,New York Times,12/2/18,88
+712,New York Times,12/2/18,70
+713,Washington Post,12/3/18,51
+714,New York Times,12/4/18,82
+715,The Guardian,12/4/18,31
+716,Boston Globe,12/6/18,50
+717,New York Times,12/11/18,77
+718,Los Angeles Times,12/12/18,62
+719,Wall Street Journal,12/12/18,54
+720,Wall Street Journal,12/13/18,47
+721,Wall Street Journal,12/14/18,50
+722,The Economist,12/15/18,43
+723,Wall Street Journal,12/15/18,55
+724,Washington Post,12/18/18,90
+725,Wall Street Journal,12/28/18,62
+726,Wall Street Journal,12/29/18,41
+727,New York Times,1/1/19,85
+728,New York Times,1/1/19,63
+729,MIT Technology Review,1/1/19,220
+730,The Economist,1/12/19,230
+731,Washington Post,1/13/19,113
+732,Wall Street Journal,1/18/19,48
+733,Wall Street Journal,1/19/19,48
+734,Wall Street Journal,1/21/19,39
+735,New York Times,1/22/19,59
+736,Wall Street Journal,1/22/19,34
+737,Financial Times,1/22/19,17
+738,Boston Globe,1/23/19,37
+739,New York Times,1/24/19,117
+740,Boston Globe,1/25/19,33
+741,New York Times,1/25/19,90
+742,Financial Times,1/26/19,30
+743,New York Times,1/27/19,107
+744,New York Times,1/27/19,35
+745,Wall Street Journal,1/28/19,29
+746,New York Times,1/29/19,49
+747,New York Times,1/29/19,45
+748,The Economist,2/2/19,68
+749,Financial Times,2/2/19,144
+750,Financial Times,2/2/19,140
+751,Financial Times,2/2/19,140
+752,Financial Times,2/2/19,144
+753,Financial Times,2/2/19,139
+754,Financial Times,2/2/19,140
+755,Financial Times,2/2/19,144
+756,New York Times,2/4/19,100
+757,Los Angeles Times,2/9/19,49
+758,Boston Globe,2/9/19,33
+759,Washington Post,2/10/19,42
+760,Financial Times,2/11/19,80
+761,Financial Times,2/11/19,80
+762,Financial Times,2/11/19,80
+763,Financial Times,2/11/19,80
+764,Washington Post,2/14/19,55
+765,Boston Globe,2/21/19,92
+766,Wall Street Journal,2/21/19,28
+767,Los Angeles Times,2/24/19,64
+768,Financial Times,2/26/19,21
+769,Financial Times,2/26/19,21
+770,Financial Times,2/26/19,21
+771,Financial Times,2/26/19,21
+772,Wall Street Journal,2/27/19,21
+773,Wall Street Journal,2/28/19,15
+774,MIT Technology Review,3/1/19,35
+775,Washington Post,3/5/19,149
+776,Washington Post,3/6/19,43
+777,Los Angeles Times,3/6/19,32
+778,Financial Times,3/9/19,56
+779,Financial Times,3/9/19,56
+780,Financial Times,3/9/19,56
+781,Financial Times,3/9/19,56
+782,Financial Times,3/11/19,34
+783,Financial Times,3/11/19,46
+784,Financial Times,3/11/19,46
+785,Financial Times,3/11/19,46
+786,New York Times,3/12/19,46
+787,Wall Street Journal,3/13/19,30
+788,Washington Post,3/14/19,50
+789,Wall Street Journal,3/14/19,18
+790,The Guardian,3/28/19,50
+791,The Guardian,4/1/19,36
+792,New York Times,4/2/19,140
+793,New York Times,4/2/19,128
+794,The Economist,4/6/19,93
+795,The Economist,4/6/19,121
+796,The Economist,4/6/19,78
+797,Washington Post,4/7/19,61
+798,New York Times,4/9/19,37
+799,The Guardian,4/11/19,10
+800,New York Times,4/14/19,170
+801,Los Angeles Times,4/20/19,65
+802,Financial Times,4/25/19,37
+803,Financial Times,4/25/19,42
+804,Financial Times,4/25/19,42
+805,Financial Times,4/25/19,42
+806,The Guardian,4/29/19,77
+807,The Guardian,4/30/19,76
+808,Boston Globe,5/8/19,45
+809,Wall Street Journal,5/10/19,220
+810,Wall Street Journal,5/11/19,169
+811,Washington Post,5/22/19,27
+812,Wall Street Journal,5/26/19,41
+813,New York Times,5/28/19,36
+814,Financial Times,6/4/19,23
+815,Financial Times,6/4/19,23
+816,Financial Times,6/4/19,23
+817,Financial Times,6/4/19,23
+818,Boston Globe,6/6/19,11
+819,Boston Globe,6/7/19,11
+820,Boston Globe,6/7/19,13
+821,Wall Street Journal,6/7/19,15
+822,Boston Globe,6/8/19,12
+823,Financial Times,6/8/19,10
+824,Financial Times,6/8/19,10
+825,Financial Times,6/8/19,10
+826,Financial Times,6/8/19,10
+827,Los Angeles Times,6/9/19,88
+828,New York Times,6/9/19,161
+829,Wall Street Journal,6/10/19,16
+830,The Guardian,6/12/19,35
+831,The Guardian,6/12/19,38
+832,Wall Street Journal,6/12/19,19
+833,Wall Street Journal,6/13/19,18
+834,Financial Times,6/14/19,15
+835,Financial Times,6/14/19,15
+836,Financial Times,6/14/19,15
+837,Financial Times,6/14/19,15
+838,The Economist,6/15/19,41
+839,New York Times,6/18/19,46
+840,New York Times,6/18/19,43
+841,Financial Times,6/20/19,36
+842,Financial Times,6/20/19,36
+843,Financial Times,6/20/19,36
+844,Financial Times,6/20/19,36
+845,Boston Globe,6/26/19,22
+846,Los Angeles Times,6/29/19,44
+847,MIT Technology Review,7/1/19,417
+848,The Guardian,7/10/19,39
+849,The Guardian,7/25/19,141
+850,Boston Globe,7/26/19,81
+851,New York Times,7/28/19,71
+852,Boston Globe,7/28/19,80
+853,New York Times,7/29/19,66
+854,Wall Street Journal,8/1/19,58
+855,Los Angeles Times,8/3/19,66
+856,Boston Globe,8/5/19,59
+857,Boston Globe,8/5/19,59
+858,The Guardian,8/16/19,121
+859,New York Times,8/19/19,61
+860,The Guardian,8/19/19,35
+861,Boston Globe,8/22/19,87
+862,Boston Globe,8/25/19,34
+863,Boston Globe,8/25/19,34
+864,Financial Times,8/27/19,20
+865,Financial Times,8/27/19,20
+866,Financial Times,8/27/19,20
+867,Financial Times,8/27/19,20
+868,Financial Times,8/28/19,27
+869,Financial Times,8/28/19,19
+870,Financial Times,8/28/19,19
+871,Financial Times,8/28/19,19
+872,Financial Times,8/28/19,27
+873,Financial Times,8/28/19,27
+874,Financial Times,8/28/19,27
+875,Financial Times,8/28/19,19
+876,Financial Times,8/28/19,27
+877,New York Times,8/30/19,55
+878,MIT Technology Review,9/1/19,130
+879,MIT Technology Review,9/1/19,143
+880,Boston Globe,9/3/19,19
+881,Boston Globe,9/4/19,17
+882,New York Times,9/17/19,53
+883,The Guardian,9/17/19,44
+884,Boston Globe,9/25/19,111
+885,The Guardian,9/27/19,109
+886,Boston Globe,9/29/19,111
+887,Boston Globe,9/30/19,39
+888,Boston Globe,10/1/19,39
+889,New York Times,10/7/19,62
+890,New York Times,10/8/19,66
+891,Wall Street Journal,10/9/19,42
+892,Wall Street Journal,10/10/19,39
+893,Boston Globe,10/21/19,43
+894,Boston Globe,10/22/19,44
+895,The Guardian,10/23/19,64
+896,New York Times,11/5/19,54
+897,New York Times,11/10/19,64
+898,New York Times,11/12/19,42
+899,Boston Globe,11/14/19,89
+900,Boston Globe,11/17/19,87
+901,Boston Globe,11/20/19,60
+902,Wall Street Journal,11/25/19,34
+903,Wall Street Journal,11/26/19,28
+904,The Guardian,12/5/19,12
