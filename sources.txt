@@ -1,50 +1,43 @@
-Author			Year		Book				Open Access?	Lauinger? 		Kindle?			Contacted? 	Obtained?
-Francoise Baylis	2019		Altered Inheritance		Unk		N			Y ($17.57)		Y		Y (kindle --> screenshots --> Word --> pdf --> txt)
-Robert Klitzman		2020		Designing Babies		Unk		Y, text only		Y ($9.99)		Y		N
-Erik Parens, ed.	2019		Human Flourishing		Unk		Y, online available	Y ($19.24)		N/A		Y (online articles --> word --> txt)
-Steve Clarke, ed.	2017		Ethics of Human Enhancement	Unk		Y, online available	Y ($58.39)		N/A		Y (online articles --> pdf --> txt)
-Colin Farrelly		2018		Genetic Ethics			Unk		Y, text only		Y ($15.99)		Y		Y (draft pdf emailed from author --> txt)
+Author			Year		Book					Method Obtained
+Francoise Baylis	2019		Altered Inheritance			kindle --> screenshots --> Word --> pdf --> txt
+Erik Parens, ed.	2019		Human Flourishing			online articles --> word --> txt
+Steve Clarke, ed.	2017		Ethics of Human Enhancement		online articles --> pdf --> txt
+Colin Farrelly		2018		Genetic Ethics				draft pdf emailed from author --> txt
 
-Include also sources from Savulescu to balance other perspectives
 
-Restrictions: only published post-2012 (so no Sandel), note when books are about more than just gene editing (i.e. ethics of human
-enhancement, which does not only involve gene editing, or ethics of of all genetic issues, which may include things like genetic
-screening in addition to genetic editing)
-
-Jennifer Doudna		2017		A Crack in Creation		Unk		Y, text only		Y ($9.99)		Y 		Y (kindle --> screenshots --> Word --> pdf --> txt)
-George Church 		2014		Regenesis 			Unk		N			Y ($13.99)		Y		Y (pdf file send from author)	
-Jim Kozubek		2016		Modern Prometheus		Unk		Y, text only		Y ($9.99)		Unclear how	Y (kindle --> screenshots --> Word --> pdf --> txt)
-John Parrington		2016		Redesigning Life		Unk		Y, text only		Y ($31.19)		Y		N	
-Nessa Carey		2019		Hacking the Code of Life	Unk		N			Y ($9.99)		Y		Y (txt file sent from publisher)
-Steven Gullans		2016		Evolving Ourselves		Unk		Y, text only		Y ($10.99)		Y		Y (kindle --> screenshots --> Word --> pdf --> txt)
+Jennifer Doudna		2017		A Crack in Creation			kindle --> screenshots --> Word --> pdf --> txt
+George Church 		2014		Regenesis 				pdf file send from author
+Jim Kozubek		2016		Modern Prometheus			kindle --> screenshots --> Word --> pdf --> txt
+Nessa Carey		2019		Hacking the Code of Life		txt file sent from publisher
+Steven Gullans		2016		Evolving Ourselves			kindle --> screenshots --> Word --> pdf --> txt
 
 
 
-National Academies	2017		NASEM Human Genome Report	Y (online)	N/A			N/A			N/A		Y (online pdf --> txt)
-Nuffield Council	2018		Nuffield Report			Y (online) 	N/A			N/A			N/A		Y (online pdf --> txt)
-Internat'l Summit	2015		First Summit Statement		Y (online)	N/A			N/A			N/A		Y (copy/pasted into txt)
-2nd Internat'l Summit	2018		Second Summit Statement		Y (online)	N/A			N/A			N/A		Y (copy/pasted into txt)
-Council of Europe	2015		Statement on Genome Editing	Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-Danish Council		2016		On gntc mod of future humans	Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-EASAC			2017		Policy report 31		Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-FEAM			2016		Human genome editing in EU	Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-FEAM			2017		Genome editing in humans 	Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-French Acad of Med	2016		Of human germline cells		Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-Brandenburg Acad	2015		Human genome surgery		Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-Leopoldina		2015		Opportunities and limits	Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-Leopoldina		2017		Ethical and legal assessment	Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-German Ethics Council	2017		Intervention in human embryo	Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-German Ethics Council 	2019		Intervening in human germline	Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-Australian Government	2018		Third Review of Gene Editing	Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-OECD			2018		GE for advanced therapies	Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-OECD			2018		GE in international context	Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-Netherlands Commission	2017		Editing human DNA		Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-Royal Netherlands	2016		Gene editing: position paper	Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-Comité de Bioética	2019		Spanish Bioethics statement	Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-Royal Soc New Zealand	2016		Gene Editing Technologies	Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-UNESCO			2015		Report of Inat'l Bioeth Commsn	Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-UK Royal Society	2018		Where to draw the line?		Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
-Nuffield Council	2016		Gene editing: an ethical review	Y (online)	N/A			N/A			N/A		Y (WHO website --> pdf --> txt)
+National Academies	2017		NASEM Human Genome Report		online pdf --> txt
+Nuffield Council	2018		Nuffield Report				online pdf --> txt
+Internat'l Summit	2015		First Summit Statement			copy/pasted into txt
+2nd Internat'l Summit	2018		Second Summit Statement			copy/pasted into txt
+Council of Europe	2015		Statement on Genome Editing		WHO website --> pdf --> txt
+Danish Council		2016		On gntc mod of future humans		WHO website --> pdf --> txt
+EASAC			2017		Policy report 31			WHO website --> pdf --> txt
+FEAM			2016		Human genome editing in EU		WHO website --> pdf --> txt
+FEAM			2017		Genome editing in humans 		WHO website --> pdf --> txt
+French Acad of Med	2016		Of human germline cells			WHO website --> pdf --> txt
+Brandenburg Acad	2015		Human genome surgery			WHO website --> pdf --> txt
+Leopoldina		2015		Opportunities and limits		WHO website --> pdf --> txt
+Leopoldina		2017		Ethical and legal assessment		WHO website --> pdf --> txt
+German Ethics Council	2017		Intervention in human embryo		WHO website --> pdf --> txt
+German Ethics Council 	2019		Intervening in human germline		WHO website --> pdf --> txt
+Australian Government	2018		Third Review of Gene Editing		WHO website --> pdf --> txt
+OECD			2018		GE for advanced therapies		WHO website --> pdf --> txt
+OECD			2018		GE in international context		WHO website --> pdf --> txt
+Netherlands Commission	2017		Editing human DNA			WHO website --> pdf --> txt
+Royal Netherlands	2016		Gene editing: position paper		WHO website --> pdf --> txt
+Comité de Bioética	2019		Spanish Bioethics statement		WHO website --> pdf --> txt
+Royal Soc New Zealand	2016		Gene Editing Technologies		WHO website --> pdf --> txt
+UNESCO			2015		Report of Inat'l Bioeth Commsn		WHO website --> pdf --> txt
+UK Royal Society	2018		Where to draw the line?			WHO website --> pdf --> txt
+Nuffield Council	2016		Gene editing: an ethical review		WHO website --> pdf --> txt
 
 
 for more: https://www.who.int/ethics/topics/human-genome-editing/resources/en/
